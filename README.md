@@ -1,4 +1,4 @@
-# Video to Image Sequence using C++
+# Video to Image Sequence using OpenCV in C++
 This program will convert your video to grayscale image sequence based on frame per second in your video.
 
 #### Dependency
